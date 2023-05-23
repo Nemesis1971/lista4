@@ -7,7 +7,8 @@ https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21a
 https://youvideostreaming.club/hls/ecutv1.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" tvg-name="ECUAVISA"  group-title="ECUADOR",Ecuavisa Quito
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4268
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/319
 
 #EXTINF:-1, tvg-logo="https://www.conmicelu.com/wp-content/uploads/2017/02/tvc-televicentro-ecuador.jpg" tvg-name="TVC"  group-title="ECUADOR",TVC
 https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
