@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://muchomejorecuador.org.ec/wp-content/uploads/2020/10/logo-teleamazonas.jpg" tvg-name="TELEAMAZONAS"  group-title="ECUADOR",Teleamazonas test
-https://youvideostreaming.club/hls/ecutv4.m3u8
-
 #EXTINF:-1, tvg-logo="https://muchomejorecuador.org.ec/wp-content/uploads/2020/10/logo-teleamazonas.jpg" tvg-name="TELEAMAZONAS"  group-title="ECUADOR",Teleamazonas
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
 
