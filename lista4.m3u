@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,#Vamos (T)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/336726
-#EXTINF:-1 ,#Vamos (TV)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117130
 #EXTINF:-1 group-title="24/7 CINEMA" tvg-logo="https://i.postimg.cc/MZNSkM2P/Proyecto-X-11.png",24/7 Accion 2022 (e)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/225772
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-5kK6RNlDNxo/XcsUbz6_QaI/AAAAAAAAA1w/UzftBLtHs1MIMfzokVQm9vPBeb8vwnatwCLcBGAsYHQ/s200/alf.png",24/7 Alf (e)(SD)
